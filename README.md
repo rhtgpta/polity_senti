@@ -1,1 +1,1 @@
-# polity_senti
+Indian Political Sentiment analysis using tweets
