@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 - Launch the application!
 ```
-python main_app.py
+python app.py
 ```
 
 ---
