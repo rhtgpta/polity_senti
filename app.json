@@ -1,0 +1,14 @@
+{
+  "name": "Indian Political Sentiments",
+  "description": "An application that let the users search across all tweets related to the Indian political scenario through an input text phrase.",
+  "image": "heroku/python",
+  "repository": "https://github.com/rohitgupta91/polity_senti",
+  "keywords": ["python", "flask" , "dash", "vader"],
+  "addons": [ ],
+  "environments": {
+    "test": {
+      "scripts": {
+      }
+    }
+  }
+}
