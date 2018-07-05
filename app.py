@@ -131,7 +131,6 @@ app.layout = html.Div([
 The tool allows you to make comparisons that circle around the Indian political scenario. The data is extracted from Twitter, and every tweet is assigned a sentiment score. 
 Enter a search query, and it will filter all the tweets that contain that term and the associated sentiment. 
 It can be a fun way to measure popularity of political issues, icons, parties, and more. \n
-*PS. Ismei Modiji ka haath nahi hai!*
 ***
                 ''')
         ], className="col-md-12")
