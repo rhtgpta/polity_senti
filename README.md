@@ -6,6 +6,7 @@ By using the [Dash](https://plot.ly/products/dash/) framework, two graphs are pr
 Sentiment is computed through [vaderSentiment](https://github.com/cjhutto/vaderSentiment), which is particularly well suited for social media text analysis. 
 
 The app is deployed on Heroku and can be accessed on the following link:
+https://beautiful-olympic-21495.herokuapp.com/
 
 
 ## Wanna tinker?
