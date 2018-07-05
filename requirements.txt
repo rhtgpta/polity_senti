@@ -1,3 +1,6 @@
+lxml==3.5.0
+gunicorn==19.9.0
+flask
 pandas==0.22.0
 numpy==1.14.3
 dash_core_components==0.23.0
@@ -6,4 +9,3 @@ dash==0.21.1
 pyquery==1.4.0
 vaderSentiment==3.2.1
 dash-renderer==0.13.0
-lxml==3.5.0
