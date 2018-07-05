@@ -7,4 +7,3 @@ pyquery==1.4.0
 vaderSentiment==3.2.1
 dash-renderer==0.13.0
 lxml==3.5.0
-
