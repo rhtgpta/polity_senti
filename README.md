@@ -32,3 +32,4 @@ python main_app.py
 References:
 - https://github.com/timothyrenner/bigfoot-dash-app
 - http://t-redactyl.io/blog/2017/04/using-vader-to-handle-sentiment-analysis-with-social-media-text.html
+- https://github.com/datademofun/heroku-basic-flask
